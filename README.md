@@ -2,8 +2,7 @@
 
 ## Setup
 
-Conflicting setup shplerb.
-
+Short shplerb for setup.
 See [setup.md](setup.md) for details
 
 ## Test
